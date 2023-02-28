@@ -29,4 +29,4 @@ For this project we are going to answer different questions :
 # The second dashboard : <img width="797" alt="Riders in NYC" src="https://user-images.githubusercontent.com/115199874/221774120-2c870e14-bf53-4ff2-aa27-6d497bd01c68.png">
 
 # Conclusion 
-In 2013, between July and September, we have notices the increase of Citi-bike users. It was on a good way to make the city more eco-responsible. Citi-bike program has a potential to be a successful story in NYC with a dynamic population who are more responsible for the environment. 
+In 2013, between July and September, we have noticed the increase of Citi-bike users. It was on a good way to make the city more eco-responsible. Citi-bike program has a potential to be a successful story in NYC with a dynamic population who are more responsible for the environment. 
